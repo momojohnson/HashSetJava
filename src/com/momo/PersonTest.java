@@ -35,7 +35,9 @@ public class PersonTest {
                 case 6:
                     displayPersonNames();
                     break;
-
+                case 7:
+                    menuOptions();
+                    break;
 
             }
         }
